@@ -1,2 +1,4 @@
 # hello-world
-Repositório criado para o treinamento sobre GitHub
+Repositório criado para o nosso treinamento sobre GitHub
+# João Victor Rodrigues
+Estamos estudando sobre o GitHub a partir do tutorial disponibilizado por eles
